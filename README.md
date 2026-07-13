@@ -8,9 +8,7 @@ I'm **Nishan C Shetty**, a Computer Science Engineering student passionate about
 
 ## 🖼️ Preview
 
-**Coming Soon:** A screenshot of the portfolio homepage will be added here after deployment.
-
-Example:
+**Coming Soon:** A screenshot of the portfolio homepage will be added here after deployment. Example:
  <img width="736" height="1307" alt="portfolio_image" src="https://github.com/user-attachments/assets/535ea0b3-7de8-4043-a452-664ef4eb8093" />
 
 ## ✨ Features
