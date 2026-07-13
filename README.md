@@ -6,6 +6,13 @@ Welcome to my personal portfolio website! This project showcases who I am, the p
 
 I'm **Nishan C Shetty**, a Computer Science Engineering student passionate about software development, web technologies, and creating user-friendly digital experiences. This portfolio serves as a central place to highlight my work, technical skills, achievements, and career journey.
 
+## 🖼️ Preview
+
+> **Coming Soon:** A screenshot of the portfolio homepage will be added here after deployment.
+
+Example:
+ <img width="736" height="1307" alt="portfolio_image" src="https://github.com/user-attachments/assets/535ea0b3-7de8-4043-a452-664ef4eb8093" />
+
 ## ✨ Features
 
 * Responsive design for desktop, tablet, and mobile
