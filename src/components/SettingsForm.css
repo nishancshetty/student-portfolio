@@ -1,0 +1,79 @@
+.settings-form {
+  max-width: 540px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border: 1px solid #e2e8f0;
+  border-radius: 1rem;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.06);
+}
+
+.settings-form__title {
+  margin: 0 0 0.5rem;
+  font-size: 1.4rem;
+}
+
+.settings-form__subtitle {
+  margin: 0 0 1.25rem;
+  color: #475569;
+}
+
+.settings-form__field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 1rem;
+}
+
+.settings-form__label {
+  font-weight: 600;
+}
+
+.settings-form__input {
+  padding: 0.7rem 0.8rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 0.6rem;
+  font: inherit;
+}
+
+.settings-form__input:focus {
+  outline: 2px solid #4f46e5;
+  outline-offset: 2px;
+}
+
+.settings-form__error {
+  color: #b91c1c;
+  font-size: 0.9rem;
+}
+
+.settings-form__actions {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.5rem;
+}
+
+.settings-form__button {
+  padding: 0.75rem 1rem;
+  border: 0;
+  border-radius: 0.6rem;
+  background: #4f46e5;
+  color: white;
+  cursor: pointer;
+}
+
+.settings-form__button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.settings-form__success {
+  margin-top: 1rem;
+  color: #166534;
+  font-weight: 600;
+}
+
+@media (max-width: 600px) {
+  .settings-form {
+    padding: 1rem;
+  }
+}
