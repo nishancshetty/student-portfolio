@@ -170,3 +170,23 @@ A task is complete when:
 * Existing functionality is unaffected.
 * Code follows the project conventions.
 * Changes are committed using Conventional Commits.
+
+* ## Project Rules
+
+### Forms
+
+- Always use controlled React components.
+- Validate every input before submission.
+- Display inline validation messages.
+
+### Accessibility
+
+- Every form input must have a label.
+- Use semantic HTML.
+- Add appropriate aria-label attributes.
+
+### Testing
+
+- Every new component must include React Testing Library tests.
+- Test validation, successful submission, and edge cases.
+- Code is not complete until tests pass.
